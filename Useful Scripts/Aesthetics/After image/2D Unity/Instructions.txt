@@ -1,0 +1,2 @@
+Put AfterImageGenerator on a GameObject with a sprite renderer (enable it to start generating after images and disable it to stop).
+Put the AfterImageController on the Prefab.
